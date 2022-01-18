@@ -2,7 +2,7 @@
 
 This is a webcrawler program in python. It fetches <img> tag urls and <a> tag urls from the provided list of urls.
 Python modules used:
-  1) re 
+  1) request 
   2) requests
 Python function:
   1) fetch(url):
